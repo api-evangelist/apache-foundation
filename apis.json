@@ -1,0 +1,57 @@
+{
+    "name": "Apache Foundation",
+    "description": "<p>Provides support for the Apache Community of open-source software projects, which provide software products for the public good.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/asf_logo.png",
+    "tags": [
+        "api tools",
+        "have api",
+        "licensing"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apache-foundation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apache Foundation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/asf_logo.png",
+            "humanURL": "http:\/\/www.apache.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apache-foundation-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apache-foundation-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blogs.apache.org\/foundation\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blogs.apache.org\/foundation\/feed\/entries\/rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/apache"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/theasf"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.apache.org\/"
+        }
+    ]
+}
